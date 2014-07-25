@@ -21,7 +21,8 @@ We will just use the following data files:
 - y_test.txt
 - y_train.txt
 
-THe script can be run in R after installing the libraries "data.table" and "plyr". If you don´t have these libraries please run the following commands before running the script:
+###Running the R-Script
+The script can be run in R after installing the libraries "data.table" and "plyr". If you don´t have these libraries please run the following commands before running the script:
 > install.packages("data.table")
 > install.packages("plyr")
 
