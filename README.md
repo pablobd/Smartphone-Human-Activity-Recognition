@@ -23,11 +23,11 @@ We will just use the following data files:
 
 ###Running the R-Script
 The script can be run in R after installing the libraries "data.table" and "plyr". If you don´t have these libraries please run the following commands before running the script:
-> install.packages("data.table")
-> install.packages("plyr")
+- install.packages("data.table")
+- install.packages("plyr")
 
 The script has two outputs:
-1. One dataset with training and the test data merged and only the measurements on the mean and standard deviation for each variable: "data_set.txt".
-2. The tidy data, a data set with 180 rows and 82 variables (3 are the "subject", "activity_code" and "activity_name"): "tidy_data.txt".
+- One dataset with training and the test data merged and only the measurements on the mean and standard deviation for each variable: "data_set.txt".
+- The tidy data, a data set with 180 rows and 82 variables (3 are the "subject", "activity_code" and "activity_name"): "tidy_data.txt".
 
-Also find in the "The Code Book" document a list of the variables that contain the tidy data 
+Also find in the "The Code Book" document a list of the variables that contain the tidy data.
