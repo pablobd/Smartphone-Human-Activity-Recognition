@@ -1,4 +1,4 @@
-Smartphone-Human-Activity-Recognition
+Smartphone Human Activity Recognition
 =====================================
 
 Human Activity Recognition Using Smartphones Data Set
