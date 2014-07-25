@@ -4,34 +4,86 @@ The Code Book
 Information of the variables in the tidy data
 ---------------------------------------------
 
-"1" "subject"
-"2" "activity_code"
-"3" "tBodyAcc_std___X"
-"4" "tBodyAcc_std___Y"
-"5" "tBodyAcc_std___Z"
-"6" "tGravityAcc_std___X"
-"7" "tGravityAcc_std___Y"
-"8" "tGravityAcc_std___Z"
-"9" "tBodyAccJerk_std___X"
-"10" "tBodyAccJerk_std___Y"
-"11" "tBodyAccJerk_std___Z"
-"12" "tBodyGyro_std___X"
-"13" "tBodyGyro_std___Y"
-"14" "tBodyGyro_std___Z"
-"15" "tBodyGyroJerk_std___X"
-"16" "tBodyGyroJerk_std___Y"
-"17" "tBodyGyroJerk_std___Z"
-"18" "tBodyAccMag_std__"
-"19" "tGravityAccMag_std__"
-"20" "tBodyAccJerkMag_std__"
-"21" "tBodyGyroMag_std__"
-"22" "tBodyGyroJerkMag_std__"
-"23" "fBodyAcc_std___X"
-"24" "fBodyAcc_std___Y"
-"25" "fBodyAcc_std___Z"
-"26" "fBodyAccJerk_std___X"
-"27" "fBodyAccJerk_std___Y"
-"28" "fBodyAccJerk_std___Z"
-"29" "fBodyGyro_std___X"
-"30" "fBodyGyro_std___Y"
-"31" "fBodyGyro_std___Z"
+-	1	subject
+-	2	activity_code
+-	3	tBodyAcc_std___X
+-	4	tBodyAcc_std___Y
+-	5	tBodyAcc_std___Z
+-	6	tGravityAcc_std___X
+-	7	tGravityAcc_std___Y
+-	8	tGravityAcc_std___Z
+-	9	tBodyAccJerk_std___X
+-	10	 tBodyAccJerk_std___Y
+-	11	 tBodyAccJerk_std___Z
+-	12	 tBodyGyro_std___X
+-	13	 tBodyGyro_std___Y
+-	14	 tBodyGyro_std___Z
+-	15	 tBodyGyroJerk_std___X
+-	16	 tBodyGyroJerk_std___Y
+-	17	 tBodyGyroJerk_std___Z
+-	18	 tBodyAccMag_std__
+-	19	 tGravityAccMag_std__
+-	20	 tBodyAccJerkMag_std__
+-	21	 tBodyGyroMag_std__
+-	22	 tBodyGyroJerkMag_std__
+-	23	 fBodyAcc_std___X
+-	24	 fBodyAcc_std___Y
+-	25	 fBodyAcc_std___Z
+-	26	 fBodyAccJerk_std___X
+-	27	 fBodyAccJerk_std___Y
+-	28	 fBodyAccJerk_std___Z
+-	29	 fBodyGyro_std___X
+-	30	 fBodyGyro_std___Y
+-	31	 fBodyGyro_std___Z
+-	32	 fBodyAccMag_std__
+-	33	 fBodyBodyAccJerkMag_std__
+-	34	 fBodyBodyGyroMag_std__
+-	35	 fBodyBodyGyroJerkMag_std__
+-	36	 tBodyAcc_mean___X
+-	37	 tBodyAcc_mean___Y
+-	38	 tBodyAcc_mean___Z
+-	39	 tGravityAcc_mean___X
+-	40	 tGravityAcc_mean___Y
+-	41	 tGravityAcc_mean___Z
+-	42	 tBodyAccJerk_mean___X
+-	43	 tBodyAccJerk_mean___Y
+-	44	 tBodyAccJerk_mean___Z
+-	45	 tBodyGyro_mean___X
+-	46	 tBodyGyro_mean___Y
+-	47	 tBodyGyro_mean___Z
+-	48	 tBodyGyroJerk_mean___X
+-	49	 tBodyGyroJerk_mean___Y
+-	50	 tBodyGyroJerk_mean___Z
+-	51	 tBodyAccMag_mean__
+-	52	 tGravityAccMag_mean__
+-	53	 tBodyAccJerkMag_mean__
+-	54	 tBodyGyroMag_mean__
+-	55	 tBodyGyroJerkMag_mean__
+-	56	 fBodyAcc_mean___X
+-	57	 fBodyAcc_mean___Y
+-	58	 fBodyAcc_mean___Z
+-	59	 fBodyAcc_meanFreq___X
+-	60	 fBodyAcc_meanFreq___Y
+-	61	 fBodyAcc_meanFreq___Z
+-	62	 fBodyAccJerk_mean___X
+-	63	 fBodyAccJerk_mean___Y
+-	64	 fBodyAccJerk_mean___Z
+-	65	 fBodyAccJerk_meanFreq___X
+-	66	 fBodyAccJerk_meanFreq___Y
+-	67	 fBodyAccJerk_meanFreq___Z
+-	68	 fBodyGyro_mean___X
+-	69	 fBodyGyro_mean___Y
+-	70	 fBodyGyro_mean___Z
+-	71	 fBodyGyro_meanFreq___X
+-	72	 fBodyGyro_meanFreq___Y
+-	73	 fBodyGyro_meanFreq___Z
+-	74	 fBodyAccMag_mean__
+-	75	 fBodyAccMag_meanFreq__
+-	76	 fBodyBodyAccJerkMag_mean__
+-	77	 fBodyBodyAccJerkMag_meanFreq__
+-	78	 fBodyBodyGyroMag_mean__
+-	79	 fBodyBodyGyroMag_meanFreq__
+-	80	 fBodyBodyGyroJerkMag_mean__
+-	81	 fBodyBodyGyroJerkMag_meanFreq__
+-	82	 activity_names
+
