@@ -4,6 +4,8 @@ The Code Book
 Information of the variables in the tidy data
 ---------------------------------------------
 
+Variables from 3 to 81 are the result of averaging the original variables (in "data_set.txt") per activity and per subject.
+
 -	1	subject
 -	2	activity_code
 -	3	tBodyAcc_std___X
